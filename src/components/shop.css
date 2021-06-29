@@ -1,0 +1,26 @@
+.title{
+    padding: 2%;
+    margin:10;
+    color:teal;
+    border-bottom: 2px solid gray;
+    text-align:center;
+}
+
+.item{
+    padding: 10px;
+    margin: 5% 40% 0 40%;
+    background: teal;
+    color: white;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    
+ }
+
+ .number{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+ }
+
